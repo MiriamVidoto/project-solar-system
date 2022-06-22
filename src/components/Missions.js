@@ -4,7 +4,9 @@ import Title from './Title';
 class Missions extends React.Component {
   render() {
     return (
-      <Title headline="Missions" />
+      <div data-testid="missions">
+        <Title headline="Missions" />
+      </div>
     );
   }
 }
