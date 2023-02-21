@@ -1,15 +1,20 @@
 import React from 'react';
-import Header from './components/Header';
-import Missions from './components/Missions';
-import SolarSystem from './components/SolarSystem';
+import Header from './components/Header/Header';
+import Missions from './components/missions/Missions';
+import SolarSystem from './components/solarSystem/SolarSystem';
+import GlobalStyle from './GlobalStyle';
+import StyledMain from './components/StyledMain';
 
 class App extends React.Component {
   render() {
     return (
       <>
+        <GlobalStyle />
         <Header />
-        <SolarSystem />
-        <Missions />
+        <StyledMain>
+          <SolarSystem />
+          <Missions />
+        </StyledMain>
       </>
     );
   }
