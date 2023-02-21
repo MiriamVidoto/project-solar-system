@@ -8,8 +8,10 @@ Nessa aplicação, a pessoa usuária poderá:
   * Visualizar todos os planetas do sistema solar renderizados na tela;
   * Visualizar todas as cartas com informações sobre missões espaciais;
 
+  ![img](./solar-system.png)
+
  Nesse projeto, eu aprimorei minhas habilidades de:
- * Utilizar JSX no React;
+  * Utilizar JSX no React;
   * Utilizar corretamente o método `render()` para renderizar seus componentes;
   * Utilizar `import` para trazer componentes em diferentes arquivos;
   * Criar componentes de classe em React;
