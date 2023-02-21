@@ -8,6 +8,8 @@ Nessa aplicação, a pessoa usuária poderá:
   * Visualizar todos os planetas do sistema solar renderizados na tela;
   * Visualizar todas as cartas com informações sobre missões espaciais;
 
+  https://miriamvidoto.github.io/project-solar-system/
+
   ![img](./solar-system.png)
 
  Nesse projeto, eu aprimorei minhas habilidades de:
