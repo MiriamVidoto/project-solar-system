@@ -21,3 +21,4 @@ Nessa aplicação, a pessoa usuária poderá:
   * Fazer uso de `props` corretamente;
   * Fazer uso de `PropTypes` para validar as `props de um componente`.
 
+###### Projeto desenvolvido por: [Miriam Vidoto](https://github.com/MiriamVidoto)
